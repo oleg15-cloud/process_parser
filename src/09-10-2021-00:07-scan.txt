@@ -8,13 +8,15 @@
         "whoopsie",
         "kernoops",
         "rtkit",
+        "geoclue",
         "colord",
-        "olegkar+"
+        "olegkar+",
+        "lp"
     ],
-    "Processes_started": 235,
+    "Processes_started": 230,
     "Users_processes": [
         {
-            "root": 144
+            "root": 136
         },
         {
             "systemd+": 2
@@ -38,14 +40,20 @@
             "rtkit": 1
         },
         {
+            "geoclue": 1
+        },
+        {
             "colord": 1
         },
         {
-            "olegkar+": 80
+            "olegkar+": 81
+        },
+        {
+            "lp": 1
         }
     ],
-    "Total_memory_used": "17.4 %",
-    "Total_CPU_used": "43.0 %",
-    "Most_memory_uses": "olegkar+: 10.7 %",
-    "Most_CPU_uses": "olegkar+: 30.9 %"
+    "Total_memory_used": "15.8 %",
+    "Total_CPU_used": "81.0 %",
+    "Most_memory_uses": "/snap/pycharm-commun",
+    "Most_CPU_uses": "/snap/pycharm-commun"
 }
