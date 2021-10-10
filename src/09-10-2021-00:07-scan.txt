@@ -1,0 +1,59 @@
+{
+    "System_users": [
+        "root",
+        "systemd+",
+        "avahi",
+        "message+",
+        "syslog",
+        "whoopsie",
+        "kernoops",
+        "rtkit",
+        "geoclue",
+        "colord",
+        "olegkar+",
+        "lp"
+    ],
+    "Processes_started": 230,
+    "Users_processes": [
+        {
+            "root": 136
+        },
+        {
+            "systemd+": 2
+        },
+        {
+            "avahi": 2
+        },
+        {
+            "message+": 1
+        },
+        {
+            "syslog": 1
+        },
+        {
+            "whoopsie": 1
+        },
+        {
+            "kernoops": 2
+        },
+        {
+            "rtkit": 1
+        },
+        {
+            "geoclue": 1
+        },
+        {
+            "colord": 1
+        },
+        {
+            "olegkar+": 81
+        },
+        {
+            "lp": 1
+        }
+    ],
+    "Total_memory_used": "15.8 %",
+    "Total_CPU_used": "81.0 %",
+    "Most_memory_uses": "/snap/pycharm-commun",
+    "Most_CPU_uses": "/snap/pycharm-commun"
+}
